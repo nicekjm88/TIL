@@ -1,3 +1,3 @@
-# [1주차] : 인터랙션 디자인 (JavaScript)
-오늘 내가 배운 것들(Today I Learned)   
+# [1주차] : UI Interaction Senior
+JavaScript 프로그래밍의 심화 부분(scope hoist, closure 등) 개념을 정리하고, 원리 및 작동 방식을 학습합니다.
 ---------------------------------------
