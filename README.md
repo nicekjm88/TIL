@@ -5,3 +5,6 @@
 - JavaScript 함수
 
 [WEEK01](https://github.com/nicekjm88/TIL/blob/master/WEEK01.md) : 1주차
+[WEEK02](https://github.com/nicekjm88/TIL/blob/master/WEEK02.md) : 2주차
+[WEEK03](https://github.com/nicekjm88/TIL/blob/master/WEEK03.md) : 3주차
+[WEEK04](https://github.com/nicekjm88/TIL/blob/master/WEEK04.md) : 4주차

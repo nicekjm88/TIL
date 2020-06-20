@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>scope</title>
+</head>
+<body>
+<script>
+	// 함수 변수 Function scope
+	function scope() {
+		var fnVal = '함수내부변수';
+		console.log(fnVal);
+	}
+	console.log(fnVal); // ReferenceError (함수 안의 변수는 함수안에만 종속 됨)
+	scope();
+
+
+
+</script>   
+</body>
+</html>
