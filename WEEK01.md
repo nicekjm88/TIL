@@ -30,3 +30,47 @@ console.log(foo === window.foo); // true
 
 ### Rule 4 : 선언 없이 초기화된 전역 변수
 - 자바스크립트의 유연성 때문에 오류가 나지 않지만 일관성을 위해 'use strict'를 사용합니다.
+
+## 2. 연산자 x 조건 처리
+
+### 비교 연산자
+- 동등(==) : 피연산자들이 같으면 참을 반환
+- 부등(!=) : 피연산자들이 다르면 참을 반환
+- 일치(===) : 피연산자들이 같고 피연산자들의 같은 형태인 경우 참을 반환
+- 불일치(!==) : 피연산자들이 다르거나 형태가 다른 경우 참을 반환
+- ~보다 큰(>) : 좌변의 피연산자보다 우변의 피연산자가 크면 참을 반환
+- ~보다 크거나 같음(>=) : 좌변의 피연산자 보다 우변의 피연산자가 크거나 같으면 참을 반환
+- ~보다 작음(<) : 좌변의 피연산자 보다 우변의 피연산자가 작으면 참을 반환
+- ~보다 작거나 같음(<=) : 좌변의 피연산자 보다 우변의 피연산자가 작거나 같으면 참을 반환
+
+### 논리 연산자
+- AND(&&)
+```
+true && true //true
+true && false //false
+false && true //false
+```
+- OR(||)
+```
+true || true //true
+true || false //true
+false || true //true
+false || false //false
+```
+- NOT(!)
+```
+!true //false
+!false //true
+!!true //true
+```
+
+### typeof
+- 데이터타입을 검출할때 주로 사용
+- array와 null은 제대로 작동 하지 않음. [배열의 경우 Array.isArray()를 통해 데이터타입을 검출]
+
+## nodeType
+- 노드타입은 상수로 이루어져 있으며, 대문자로 구별된다.
+- 변수선언의 const가 Constants의 앞글자이다.
+- Node.ELEMENT_NODE === 1
+- Node.TEXT_NODE === 3
+- Node.DOCUMENT_NODE === 9
