@@ -1,4 +1,5 @@
 # [1주차] : UI Interaction Senior
+JavaScript, ES6 프로그래밍 언어의 원론(Principle): 근본 이론에 대해 학습합니다.
 ---------------------------------------
 
 ## 월요일
@@ -8,8 +9,8 @@
 - [즉시 실행 함수 식)](https://jmk.gitbook.io/workspace/e.uid/iife)
 
 ## 화요일
-- [(es6)변수와 상수](https://jmk.gitbook.io/workspace/e.uid/es6/var-let-const)
-- [(es6)IIFE → Block](https://jmk.gitbook.io/workspace/e.uid/es6/iife-block)
+- [[ES6]변수와 상수](https://jmk.gitbook.io/workspace/e.uid/es6/var-let-const)
+- [[ES6]IIFE → Block](https://jmk.gitbook.io/workspace/e.uid/es6/iife-block)
 
 ## 수요일
 - [클로저(Closure)](https://jmk.gitbook.io/workspace/e.uid/closure)
