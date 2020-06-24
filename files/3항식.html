@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>scope</title>
+</head>
+<style>
+	ol,
+	li {
+		list-style-type: none;
+	}
+</style>
+
+<body>
+	<ol class="numeric-list">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ol>
+<script>
+/**
+ * 10이하의 숫자 앞에 0을 붙여라.
+ */
+
+let numericList = document.querySelectorAll('.numeric-list > li');
+
+numericList.forEach(function (el, i) {
+	let count = (i + 1); 
+	// 축약 : Number(i + 1) === (i + 1)
+
+	count < 10 ? count = '0' + count : count; 
+	/** 
+	 * if ( count < 10 ) { 
+	 *	count = '0' + count 
+	 * } else { 
+	 *	count 
+	 * }
+	 */
+	
+	el.textContent += count; 
+	// 축약 : el.textContent = el.textContent + count;
+});
+
+
+</script>
+</body>
+
+</html>
