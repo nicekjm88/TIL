@@ -14,3 +14,7 @@ JavaScript, ES6 프로그래밍 언어의 원론(Principle): 근본 이론에 �
 
 ## 수요일
 - [클로저(Closure)](https://jmk.gitbook.io/workspace/e.uid/closure)
+
+## 목요일
+- [숫자/수학 객체](https://jmk.gitbook.io/workspace/e.uid/number-math-method)
+- [문자 객체](https://jmk.gitbook.io/workspace/e.uid/string-method)
