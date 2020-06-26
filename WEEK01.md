@@ -1,5 +1,4 @@
 # [1주차] : UI Interaction Senior
----------------------------------------
 
 ## 월요일
 - [값 복사 vs 값 참조](https://jmk.gitbook.io/workspace/e.uid/pass-by-value-vs-pass-by-reference)
