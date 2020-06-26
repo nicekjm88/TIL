@@ -1,5 +1,4 @@
 # [1주차] : UI Interaction Senior
-JavaScript, ES6 프로그래밍 언어의 원론(Principle): 근본 이론에 대해 학습합니다.
 ---------------------------------------
 
 ## 월요일
