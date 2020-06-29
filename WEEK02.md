@@ -1,3 +1,7 @@
 # [2주차] : UI Interaction Senior
-Prototype vs Class 기반 객체 지향 프로그래밍을 빠르게 정리하고, 학습한 범위 내에서 프로그래밍 실습을 진행합니다.
----------------------------------------
+
+## 월요일
+- [함수객체](https://jmk.gitbook.io/workspace/e.uid/function-method)
+  > [함수 용어정리](https://app.gitbook.com/@jmk/s/workspace/e.uid/function-method/~/settings/share#undefined)
+  > [여러 함수 형식들](https://app.gitbook.com/@jmk/s/workspace/e.uid/function-method/~/settings/share#undefined-1)
+  > [함수 객체의 속성과 메소드](https://app.gitbook.com/@jmk/s/workspace/e.uid/function-method/~/settings/share#function)
