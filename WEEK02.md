@@ -11,3 +11,7 @@
 - [[ES6] 함수 ⎼ Default Parameter](https://jmk.gitbook.io/workspace/e.uid/es6/default-parameter)
 - [[ES6] 함수 ⎼ Rest Parameter](https://jmk.gitbook.io/workspace/e.uid/es6/rest-parameter)
 - [[ES6] 함수 ⎼ Spread Operator](https://jmk.gitbook.io/workspace/e.uid/es6/spread-operator)
+
+## 수요일
+- [배열객체](https://jmk.gitbook.io/workspace/e.uid/array-method)
+- [[ES6]Array Additions](https://jmk.gitbook.io/workspace/e.uid/es6/array-additions)
